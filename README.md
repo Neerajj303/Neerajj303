@@ -48,7 +48,7 @@ I specialize in querying relational databases, conducting statistical data model
 
 ## 🎓 Education & Certifications
 
-* **Bachelor of Commerce (B.Com) — 2nd Year** | School of Open Learning, University of Delhi *(2024 – 2027)*
+* **Bachelor of Commerce (B.Com) — 2nd Year** | School of Open Learning, University of Delhi *(2025 – 2028)*
 * **Data Analytics Professional Program** | Career247 *(Excel, SQL, Applied Statistics)*
 * **Business Intelligence & Python Specialization** | *(In Progress)*
 
