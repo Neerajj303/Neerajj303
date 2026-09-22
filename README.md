@@ -1,5 +1,5 @@
 # Hi there, I'm Neeraj Joshi 👋
-### Aspiring Data Analyst | B.Com (SOL, DU) | Business & Financial Analytics
+###  Data Analyst | B.Com (SOL, DU) | Business & Financial Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/neeraj-joshi-ba9629281)
 
