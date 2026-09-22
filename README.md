@@ -44,6 +44,7 @@ I specialize in querying relational databases, conducting statistical data model
 * Applied descriptive statistics and regression modeling to evaluate product demand and category profitability.
 * Built an automated KPI dashboard summarizing monthly performance and growth metrics.
 
+
 ---
 
 ## 🎓 Education & Certifications
@@ -51,6 +52,9 @@ I specialize in querying relational databases, conducting statistical data model
 * **Bachelor of Commerce (B.Com) — 2nd Year** | School of Open Learning, University of Delhi *(2025 – 2028)*
 * **Data Analytics Professional Program** | Career247 *(Excel, SQL, Applied Statistics)*
 * **Business Intelligence & Python Specialization** | *(In Progress)*
+*     Data Analytics Proficiency — BEEP — September 2026
+* Business Analytics Proficiency — BEEP — September 2026
+* Learn SQL to Become a Data/Business Analyst — WsCube Tech — 18 September 2026
 
 ---
 
